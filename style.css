@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 :root {
-    --cor-principal: #DAA520
-    --cor-secundaria: #FFD700
-    --cor-destaque: #228B22
+    --cor-principal: #228B22 
+    --cor-secundaria: #ADFF2F
+    --cor-destaque: #556B2F
 }
 body{
 font-family: 'Caveat', sans-serif;
