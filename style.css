@@ -3,7 +3,7 @@
     --cor-principal: #228B22 
     --cor-secundaria: #ADFF2F
     --cor-destaque: #556B2F
-}
+} 
 body{
 font-family: 'Caveat', sans-serif;
 color: var(--cor-principal); 
